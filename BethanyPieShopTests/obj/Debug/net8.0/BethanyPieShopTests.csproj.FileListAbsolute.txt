@@ -1,0 +1,6 @@
+D:\Coding\Projects\Pluralsight\asp-net-core-fundamentals\BethanysPieShop\BethanyPieShopTests\bin\Debug\net8.0\CoverletSourceRootsMapping_BethanyPieShopTests
+D:\Coding\Projects\Pluralsight\asp-net-core-fundamentals\BethanysPieShop\BethanyPieShopTests\obj\Debug\net8.0\BethanyPieShopTests.csproj.AssemblyReference.cache
+D:\Coding\Projects\Pluralsight\asp-net-core-fundamentals\BethanysPieShop\BethanyPieShopTests\obj\Debug\net8.0\BethanyPieShopTests.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\Projects\Pluralsight\asp-net-core-fundamentals\BethanysPieShop\BethanyPieShopTests\obj\Debug\net8.0\BethanyPieShopTests.AssemblyInfoInputs.cache
+D:\Coding\Projects\Pluralsight\asp-net-core-fundamentals\BethanysPieShop\BethanyPieShopTests\obj\Debug\net8.0\BethanyPieShopTests.AssemblyInfo.cs
+D:\Coding\Projects\Pluralsight\asp-net-core-fundamentals\BethanysPieShop\BethanyPieShopTests\obj\Debug\net8.0\BethanyPieShopTests.csproj.CoreCompileInputs.cache
